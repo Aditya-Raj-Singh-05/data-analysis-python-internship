@@ -74,4 +74,3 @@ A mini data-visualization dashboard in a single notebook, pulling together six c
 
 ---
 
-More tasks will be added here as the internship progresses (Week 5 - Week 6).
